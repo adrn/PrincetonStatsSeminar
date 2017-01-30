@@ -1,6 +1,6 @@
 # Princeton Stats Seminar
 
-Supplementary material for my lecture on 3 Feb.
+Supplementary material for my lecture on 6 Feb.
 
 # Dependencies
 
@@ -28,5 +28,3 @@ To deactivate the environment (if you want to go back to your root environment /
 you just have to do:
 
     source deactivate
-
-
