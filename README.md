@@ -1,6 +1,6 @@
-# Princeton Stats Seminar
+# Princeton Stats Workshop (6 Feb)
 
-Supplementary material for my lecture on 6 Feb.
+Supplementary material for my lecture on model fitting.
 
 # Dependencies
 
