@@ -12,6 +12,8 @@ dependencies:
   - scipy
   - emcee
   - pip
+  - jupyter
+  - notebook
   - pip:
     - git+https://github.com/adrn/gala.git
     - schwimmbad
